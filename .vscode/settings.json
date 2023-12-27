@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Vector Game.sln"
+    "dotnet.defaultSolution": "GraphGame.sln"
 }
